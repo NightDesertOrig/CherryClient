@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "cherryclient",
+    "name": "Cherry Client",
+    "description": "Earth2b2t Hacked Client",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "logoFile": "logo.jpg",
+    "url": "https://discord.gg/XuTH5zwX",
+    "updateUrl": "",
+    "authorList": [
+      "cocoapc0911"
+    ],
+    "screenshots": [
+        "logo.jpg"
+    ],
+    "dependencies": []
+  }
+]
